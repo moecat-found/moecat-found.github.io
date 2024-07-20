@@ -3,59 +3,5 @@
   
   
   
-  <entry>
-    <title>手把手教你搭建你自己的博客</title>
-    <link href="/2024/07/18/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <url>/2024/07/18/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    
-    <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>下载一些插件</p><p><a href="https://git-scm.com/downloads">下载Git</a></p><p><a href="https://nodejs.org/zh-cn/download">下载Node.js</a></p><p>然后随便新建一个文件夹，建议名为 <code>hexo</code></p><p>打开 <code>hexo</code> 文件夹，<br>摁住 <code>Shift</code> 然后 <code>右键</code> 空白区域，<br>选择 <code>在此处打开Powershell窗口</code></p><p>执行：<code>hexo init</code></p><p>如果你遇到了这样的报错：</p><p><code>hexo : 无法加载文件 C:\Users\moecat\AppData\Roaming\npm\hexo.ps1，因为在此系统上禁止运行脚本。有关详细信息，请参阅 https:/go.microsoft.com/fwlink/?LinkID=135170 中的 about_Execution_Policies。</code></p><p>请自行搜索解决办法，方法很多，直接把这一段报错内容复制然后搜索即可</p><p>如果你没有Github账号，到<a href="https://github.com/join">这里</a>去注册一个</p><p>如果你注册完了或者登录好了，那么可以<a href="https://github.com/new">创建新仓库</a>了</p><p>把 <code>RepoSitory Name</code> 设为 <code>你的用户名.github.io</code> ，比如我叫moecat-found，那仓库名就应该是 <code>moecat-found.github.io</code></p><p>填完之后就点击下面的 <code>Create repository</code> 创建仓库</p><p>现在在Powershell中执行：</p><p><code>git config --global user.name &quot;你的Github用户名&quot;</code></p><p><code>git config --global user.email &quot;你注册Github使用的邮件地址&quot;</code></p><p>然后回到你刚刚的文件夹，打开文件夹中的 <code>_config.yml</code> ，找到最下面的 # Deployment，把内容改成</p><p><code># Deployment</code><br><code>## Docs: https://hexo.io/docs/deployment.html</code><br>    <code>deploy:</code><br>    <code>type: git</code><br>    <code>repo: 你刚刚创建的仓库的网址</code><br>    <code>branch: master</code></p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>（下面的命令需要在Hexo文件夹中执行）</p><p>（摁住 Shift 然后右键空白区域，选择 在此处打开Powershell窗口）</p><p>执行 <code>hexo new 文章名</code>来新建文章，</p><p>在你的博客文件夹的 &#x2F;source&#x2F;_posts 中编辑这篇文章，可以使用如 VSCode 等支持 Markdown 的编辑器来编辑文章。</p><p>要上传文章？依次执行这三个命令即可</p><p>hexo clean</p><p>hexo generate</p><p>hexo deploy</p><p>（有可能会弹出一个Github的登录框，输入自己的Github账号邮箱和密码即可登录）</p><p>上传完成后就可以看到自己的博客了，博客的地址是 你的Github名称.github.io 。  </p>]]></content>
-    
-    
-    <categories>
-      
-      <category>博客搭建</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>干货</tag>
-      
-      <tag>软核</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>关于博客的评论功能</title>
-    <link href="/2024/07/17/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
-    <url>/2024/07/17/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</url>
-    
-    <content type="html"><![CDATA[<ul><li>Leancloud：在每条博文下面的评论区中，昵称处就填写昵称即可，邮箱处就填写常用的邮箱即可，重要的是网址，这个是点击评论昵称后跳转的地址，这个有用，网址处可以填写自己的网页地址或者是某些平台的个人主页</li><li>Gitalk：请授权登录GitHub账号后，即可发布评论</li></ul>]]></content>
-    
-    
-    <categories>
-      
-      <category>入站必看</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>评论功能</tag>
-      
-      <tag>公告</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
   
 </search>
