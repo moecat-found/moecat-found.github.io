@@ -31,11 +31,11 @@
   
   
   <entry>
-    <title>关于博客的评论功能</title>
-    <link href="/2024/07/17/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
-    <url>/2024/07/17/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</url>
+    <title>关于评论功能</title>
+    <link href="/2024/07/17/%E5%85%B3%E4%BA%8E%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
+    <url>/2024/07/17/%E5%85%B3%E4%BA%8E%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</url>
     
-    <content type="html"><![CDATA[<ul><li>Leancloud：在每条博文下面的评论区中，昵称处就填写昵称即可，邮箱处就填写常用的邮箱即可，重要的是网址，这个是点击评论昵称后跳转的地址，这个有用，网址处可以填写自己的网页地址或者是某些平台的个人主页</li><li>Gitalk：请授权登录GitHub账号后，即可发布评论</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="用户发言前，请认真阅读-评论协议"><a href="#用户发言前，请认真阅读-评论协议" class="headerlink" title="用户发言前，请认真阅读 评论协议"></a>用户发言前，请认真阅读 <a href="https://blog.moecat.space/2000/01/01/%E8%AF%84%E8%AE%BA%E5%8D%8F%E8%AE%AE/">评论协议</a></h2><ul><li>Leancloud：在每条博文下面的评论区中，昵称处就填写昵称即可，邮箱处就填写常用的邮箱即可，重要的是网址，这个是点击评论昵称后跳转的地址，这个有用，网址处可以填写自己的网页地址或者是某些平台的个人主页</li><li>Gitalk：请授权登录GitHub账号后，即可发布评论</li></ul>]]></content>
     
     
     <categories>
@@ -50,6 +50,33 @@
       <tag>评论功能</tag>
       
       <tag>公告</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>留言信箱</title>
+    <link href="/2024/07/17/%E7%95%99%E8%A8%80%E4%BF%A1%E7%AE%B1/"/>
+    <url>/2024/07/17/%E7%95%99%E8%A8%80%E4%BF%A1%E7%AE%B1/</url>
+    
+    <content type="html"><![CDATA[<h1 id="有什么想问的？"><a href="#有什么想问的？" class="headerlink" title="有什么想问的？"></a>有什么想问的？</h1><h1 id="有什么想说的？"><a href="#有什么想说的？" class="headerlink" title="有什么想说的？"></a>有什么想说的？</h1><h1 id="有什么想吐槽的？"><a href="#有什么想吐槽的？" class="headerlink" title="有什么想吐槽的？"></a>有什么想吐槽的？</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>关于博主</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>公告</tag>
+      
+      <tag>留言</tag>
       
     </tags>
     
