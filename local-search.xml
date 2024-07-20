@@ -20,8 +20,6 @@
     
     <tags>
       
-      <tag>评论</tag>
-      
       <tag>留言</tag>
       
     </tags>
@@ -62,21 +60,19 @@
     <link href="/2024/07/17/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
     <url>/2024/07/17/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</url>
     
-    <content type="html"><![CDATA[<ul><li>历史版本：在每条博文下面的评论区中，昵称处就填写昵称即可，邮箱处就填写常用的邮箱即可，重要的是网址，这个是点击评论昵称后跳转的地址，这个有用，网址处可以填写自己的网页地址或者是某些平台的个人主页，然后最重要的一点，请友善交流！</li><li>最新版：请授权登录GitHub账号后，即可发布评论</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>历史版本：在每条博文下面的评论区中，昵称处就填写昵称即可，邮箱处就填写常用的邮箱即可，重要的是网址，这个是点击评论昵称后跳转的地址，这个有用，网址处可以填写自己的网页地址或者是某些平台的个人主页</li><li>最新版：请授权登录GitHub账号后，即可发布评论</li></ul>]]></content>
     
     
     <categories>
       
-      <category>关于本站</category>
+      <category>入站必看</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>入站必看</tag>
-      
-      <tag>评论</tag>
+      <tag>评论功能</tag>
       
     </tags>
     
